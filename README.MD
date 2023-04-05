@@ -1,2 +1,1 @@
-<!-- ![alt text](https://github.com/Vigrind/Game_Of_Life/blob/master/gif/example.png "Example") -->
-<img src="https://github.com/Vigrind/Game_Of_Life/blob/master/gif/example.png" width="40" height="40" />
+<img src="https://github.com/Vigrind/Game_Of_Life/blob/master/gif/example.png" width="600" height="600" />
